@@ -471,7 +471,10 @@ footer{
     vertical-align: sub;
 }
 
-
+.info_colortext {
+    color: #A6C81E;
+    cursor: pointer;
+}
 
 
 
